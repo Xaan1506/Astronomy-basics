@@ -54,7 +54,7 @@ td{
   gap: 5px;
   width: 80%;
   margin: 0 auto;
-  border: 1px solid #ccc;
+  border: 1px solid #2f2e2e;
   padding: 10px;
 }
 .Sun p {
@@ -72,7 +72,7 @@ td{
     gap: 20px;
     width: 80%;
     margin: 0 auto;
-    border: 1px solid #ccc;
+    border: 1px solid #393838;
     padding: 10px;
 }
 .Mercury { 
@@ -153,7 +153,7 @@ td{
     gap: 20px;
     width: 80%;
     margin: 0 auto;
-    border: 1px solid #ccc;
+    border: 1px solid #3e3d3d;
     padding: 10px;
 }
 .celestialbodies{
@@ -165,7 +165,7 @@ td{
     gap: 20px;
     width: 80%;
     margin: 0 auto;
-    border: 1px solid #ccc;
+    border: 1px solid #3b3a3a;
     padding: 10px;
 }
 .Moon,.Asteroid,.Constellations,.Blackhole {
@@ -297,7 +297,7 @@ nav {
         max-width: 1200px;
         padding: 30px;
         background: rgba(10, 10, 10, 0.2);
-        border: 2px solid #f4f5f7;
+        border: 2px solid #424243;
 }
 .gallery h1 {
         text-align: center;
