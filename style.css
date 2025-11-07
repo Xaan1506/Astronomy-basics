@@ -8,7 +8,7 @@ body {
     position: relative;
     min-height: 100vh;
 }
-p {
+pclear{
     color: white;
     font-size: 100px;
 }
