@@ -2,13 +2,13 @@
             scroll-behavior: smooth;
  }
 body {
-    background-image: url("beautiful-view-stars-night-sky.jpg");
+    background-image: url("Images/beautiful-view-stars-night-sky.jpg");
     background-size: cover;
     background-attachment: fixed;
     position: relative;
     min-height: 100vh;
 }
-pclear{
+p{
     color: white;
     font-size: 100px;
 }
